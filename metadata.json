@@ -1,0 +1,6 @@
+{
+  "name": "Kriteria Ketercapaian Tujuan Pembelajaran (KKTP)",
+  "description": "Platform profesional Kurikulum Nasional untuk merancang Kriteria Ketercapaian Tujuan Pembelajaran (KKTP) berbasis metodologi SOLO Taksonomi dan Pembelajaran Mendalam (Deep Learning) secara otomatis dan cerdas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
